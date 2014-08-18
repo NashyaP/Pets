@@ -1,0 +1,28 @@
+/*style.css*/ 
+.body { 
+clear: both; 
+background-color: #99FF99;
+} 
+h1 { 
+    font-family: georgia; 
+    font-weight: bold; 
+    text-align: center; 
+    color: black;
+    font-size: 50px;
+    border-bottom-style: solid;
+    border-right-style: dashed;
+    border-left-style: dashed;
+    border-top-style: solid;
+} 
+p { 
+font-family: georgia; 
+font-size: 24px; 
+color: green;
+text-align: center;
+} 
+ 
+img{
+height: 100px;
+width: 300px;
+border: 1px solid #4682b4;
+}
